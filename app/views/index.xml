@@ -1,0 +1,39 @@
+<Alloy>
+	<Window id='index'>
+		<View id="mainContainer">
+			<View id="containImg"></View>
+			<View id="familyMedicalClinicView" class="containerLayout">
+				<ImageView id="familyMedicalClinicImage" class="imageView"></ImageView>
+
+			</View>
+			<View id="generalDentistryView" class="containerLayout">
+				<ImageView id="generalDentistryImage" class="imageView"></ImageView>
+
+			</View>
+			<View id="pharmacyView" class="containerLayout">
+				<ImageView id="pharmacyImage" class="imageView"></ImageView>
+
+			</View>
+			<View id="physiotherapyView" class="containerLayout">
+				<ImageView id="physiotherapyImage" class="imageView"></ImageView>
+
+			</View>
+			<View id="chiropractorView" class="containerLayout">
+				<ImageView id="chiropractorImage" class="imageView"></ImageView>
+
+			</View>
+			<View id="eyeDoctorView" class="containerLayout">
+				<ImageView id="eyeDoctorImage" class="imageView"></ImageView>
+
+			</View>
+			<View id="psychologistView" class="containerLayout">
+				<ImageView id="psychologistImage" class="imageView"></ImageView>
+
+			</View>
+			<View id="naturopathicMedicineView" class="containerLayout">
+				<ImageView id="naturopathicMedicineImage" class="imageView"></ImageView>
+
+			</View>
+		</View>
+	</Window>
+</Alloy>

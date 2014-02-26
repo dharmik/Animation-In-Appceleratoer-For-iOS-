@@ -1,0 +1,98 @@
+"#index" : {
+	backgroundColor : '#ccc'
+},
+"#mainContainer":{
+	top : '20dp',
+	height:Ti.UI.FILL,
+	width:Ti.UI.FILL
+},
+"#containImg":{
+	//backgroundImage : '/images/containImage.png',
+	top : '40dp',
+	bottom : '40dp',
+	left : '0dp',
+	right : '40dp'
+},
+"#familyMedicalClinicView":{
+	//top : '10dp',
+	top : -500,
+	left : -500,
+	layout : 'horizontal'
+},
+".containerLayout":{
+	height : Ti.UI.SIZE
+},
+"#familyMedicalClinicImage":{
+	image : '/images/appicon.png'
+},
+".imageView":{
+	height :'65dp',
+	width :'65dp'
+},
+"#generalDentistryView":{
+	//top : '35dp',
+	top : -500,
+	left : -500,
+	layout : 'horizontal'
+},
+"#generalDentistryImage":{
+	
+	image : '/images/appicon.png'
+},
+"#pharmacyView":{
+	//top : '80dp',
+	top : -500,
+	left : -500,
+	layout : 'horizontal'
+},
+"#pharmacyImage":{
+	
+	image : '/images/appicon.png'
+},
+"#physiotherapyView":{
+	//top : '170dp',
+	top : -500,
+	left : -500,
+	layout : 'vertical'
+},
+"#physiotherapyImage":{
+	
+	image : '/images/appicon.png'
+},
+"#chiropractorView":{
+	//bottom : '170dp',
+	bottom : -500,
+	left : -500,
+	layout : 'vertical'
+},
+"#chiropractorImage":{
+	image : '/images/appicon.png'
+},
+"#eyeDoctorView":{
+	//bottom : '85dp',
+	bottom : -500,
+	left : -500,
+	layout : 'horizontal'
+},
+"#eyeDoctorImage":{
+	image : '/images/appicon.png'
+},
+"#psychologistView":{
+	//bottom : '40dp',
+	bottom : -500,
+	left : -500,
+	layout : 'horizontal'
+},
+"#psychologistImage":{
+	image : '/images/appicon.png'
+},
+"#naturopathicMedicineView":{
+	// bottom : '10dp',
+	bottom : -500,
+	left : -500,
+	layout : 'vertical'
+},
+"#naturopathicMedicineImage":{
+	left : '5dp',
+	image : '/images/appicon.png'
+}
